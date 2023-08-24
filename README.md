@@ -1,6 +1,9 @@
 # WINE QUALITY PREDICTION
 The main goal of this project is to predict wine quality whether it is good or bad. For centuries tasting has been done by humans and they have always predicted on the basis of sensory organs. But in recent times the industries are adopting newer technologies and applying them in all kinds of areas. But, still there are many areas in which human expertise is needed like product quality assurance. Nowadays, it becomes an expensive process as the demand of product is growing over the time.  Hence, this project predicts the quality of the wine using the dataset from Kaggle.
 
+# Machine Learning Algorithm used:
+Random Forest Classifier
+
 # Tools/Technologies used:
 1. Jupyter Notebook
 2. Python language
